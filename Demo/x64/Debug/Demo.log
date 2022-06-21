@@ -1,0 +1,2 @@
+﻿  test.c
+E:\CodeWork\c_work\Structor\Demo\test.c(17): error C4700: 使用了未初始化的局部变量“L”

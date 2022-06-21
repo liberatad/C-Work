@@ -1,0 +1,3 @@
+﻿  Search.c
+E:\CodeWork\c_work\Structor\Search\Search.c(66): warning C4715: “Search_Bin2”: 不是所有的控件路径都返回值
+  Search.vcxproj -> E:\CodeWork\c_work\Structor\x64\Debug\Search.exe
